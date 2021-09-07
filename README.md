@@ -8,3 +8,15 @@ import pandas as pd
 import numpy as np
 
 import matplotlib.pyplot as plt
+
+⭐️ Вопрос 1 Загрузите данные из файла online-retail.csv в переменную типа pandas DataFrame
+
+Подсказка: Используйте функцию из библиотеки pandas
+
+Какой символ-разделитель используется в этом файле?
+
+Запятая "," Двоеточие ":" Точка с запятой ";" Символ табуляции "tab"
+
+df = pd.read_csv('online-retail.csv', sep=';')
+
+df.head()
