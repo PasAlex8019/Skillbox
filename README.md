@@ -1,2 +1,2 @@
 # Skillbox
-practical training on Ылшддищч
+practical training on Skillbox
