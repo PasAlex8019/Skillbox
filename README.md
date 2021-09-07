@@ -18,4 +18,5 @@ import matplotlib.pyplot as plt
 Запятая "," Двоеточие ":" Точка с запятой ";" Символ табуляции "tab"
 
 df = pd.read_csv('online-retail.csv', sep=';')
+
 df.head()
