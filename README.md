@@ -20,3 +20,7 @@ import matplotlib.pyplot as plt
 df = pd.read_csv('online-retail.csv', sep=';')
 
 df.head()
+
+Type Markdown and LaTeX:  𝛼2
+
+df.info()
